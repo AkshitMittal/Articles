@@ -337,5 +337,5 @@ Picking the smallest…E</p>
 <p>Dijkstra’s algorithm finalizes the shortest path from source to any vertex in every iteration.</p>
 <p><strong>Closing Remarks</strong></p>
 <p>Just for your knowledge, we can, in fact, achieve a running time of O(V log V + E) by implementing the min-priority queue with a Fibonacci heap.<br>
-Bellman Ford works for negative weight edges also but with more time.</p>
+Bellman Ford works for negative weight edges as well but with more time.</p>
 
